@@ -1,0 +1,41 @@
+<div class="inaboutus" style="border: solid 1px #666666;height: 150px;margin-top: 10%;background-color: #999999;margin-bottom: 1px;" >
+		<table style="margin-top: 3%;margin-left: 8% ;margin-right:;">
+			<tr style="background-color: #666666;">
+				<th><a style="color: black;" href="#"> About Us</a></th>
+				<th><a style="color: black;" href="#">Contact Us</a></th>
+				<th><a style="color: black;" href="#">About Our Website</a></th>
+				<th><a style="color: black;" href="hindipage.html">Learn Hindi</a></th>
+				<th><a style="color: black;" href="page2en.html">Learn English</a></th>
+				<th><a style="color: black;" href="page3st.html">Read Stroties</a></th>
+				<th><a style="color: black;" href="GKQ.html">Learn GK</a></th>
+			</tr>
+			<tr>
+				<td><a style="color: black;" href="Appsofmagnetstudy.html">Apps Of Website</a></td>
+				<td><a style="color: black;" href="#">Our Numbers</a></td>
+				<td><a style="color: black;" href="#">Founder Of Website</a></td>
+				<td><a style="color: black;" href="hindipage.html">Vyakaran</a></td>
+				<td><a style="color: black;" href="page2en.html">Grammer</a></td>
+				<td><a style="color: black;" href="page3st.html">Small Stories</a></td>
+				<td><a style="color: black;" href="GKQ.html">State & Capital</a></td>
+			</tr>
+			<tr>
+				<td><a style="color: black;" href="Appsofmagnetstudy.html">Android App</a></td>
+				<td><a style="color: black;" href="#">Our E-mail</a></td>
+				<td><a style="color: black;" href="#">Story</a></td>
+				<td><a style="color: black;" href="hindistory.html">Hindi Stories</a></td>
+				<td><a style="color: black;" href="engsto.html">English Stories</a></td>
+				<td><a style="color: black;" href="page3st.html">Big Stories</a></td>
+				<td><a style="color: black;" href="GKQ.html">Country & Capital</a></td>
+			</tr>
+			<tr>
+				<td><a style="color: black;" href="Appsofmagnetstudy.html">Windows App</a></td>
+				<td><a style="color: black;" href="#">More Details</a></td>
+				<td><a style="color: black;" href="#">More Details</a></td>
+				<td></td>
+				<td></td>
+				<td><a style="color: black;" href="#">Moral Value</a></td>
+				<td><a style="color: black;" href="#">Top 10 Mountains</a></td>
+			</tr>
+		</table>
+		
+	</div>
